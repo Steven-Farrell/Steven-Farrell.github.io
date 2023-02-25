@@ -1,0 +1,47 @@
+
+body {
+    background-image: linear-gradient(to bottom, white, #a4f2f5,  #96c9eb )
+}
+
+h1, h2 {
+    font-family: "Gelasio", sans-serif;
+}
+
+h1 {
+    margin-left: 200px;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 20px;
+    border: solid grey;
+    background-image: linear-gradient(to right, #96c9eb, #a4f2f5, #6bb3e3);
+}
+
+.media p {
+    font-family: "Poly", sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+
+#chiroForm label {
+    font-weight: bold;
+}
+
+a {
+    cursor: pointer; 
+}
+
+#chiroFooter {
+    min-height: 100px;
+}
+
+#chiroFooter a {
+    margin-top: 12px;
+}
+
+#copyright {
+    font-weight: bold;
+}
